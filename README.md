@@ -96,7 +96,9 @@ The final production model a Neural Network, utilizes several layers with optimi
 ![Alt text](Images/NN_performance.png)
 
 
-## Insights and Recommendations
+#Conclusions-and-Recommendations
+
+## Insights
 
 My model identifies several features for further research among those BTC_activeaddresses which had a decent correlation to price at 0.62. It would seem so that leveraging blockchain, search and social media data allows for predictions of BTC’s daily close better than a baseline model, during the time period analysied (12/31/2017 - 12/06/2020), just predicating the positive class would have been right roughly only ~49% of the time.
 
