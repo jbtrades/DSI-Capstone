@@ -40,7 +40,7 @@ A cultural shift towards decentralization via btc and other digital assets is we
 
 ## Research
 
-"Cryptory is a robust web scraping third party module, which facilitates data sourcing from various sources, credit goes to the owner of the repo (Dashee87). In addition, I used Yahoo Finance Api to pull standard OHLC data for analysis. I aimed to pull in data to represent proxies for the following;
+"Cryptory is a robust web scraping third party module, which facilitates data sourcing from various sources, credit goes to the owner of the repo (Dashee87). In addition, I used Yahoo Finance Api to pull standard OHLC data for analysis. I aimed to pull in data to represent proxies for the following[(*Link to source*)](https://github.com/dashee87);
 
 -  **Search/ Social Media** - Retail Demand, Overall Engagement
 -  **Blockchain Network** - Crypto Adoption, Miner Supply, Overall Network Health
@@ -52,8 +52,6 @@ Data is obtained from multiple online sources via Web scraping. The sources are 
 - Reddit
 - Blockchain Metrics
 - Yahoo Finance
-
-[(*Link to source*)](https://github.com/dashee87)
 
 ## Data
 
