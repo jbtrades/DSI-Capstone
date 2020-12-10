@@ -1,6 +1,6 @@
 # Data Dictionary
 |Feature|Type|Dataset|Description|
-|---|---|---|---|---|
+|---|---|---|---|
 |vol%_chg1d|float|BTC_daily_since_1-2018.csv|total BTC trading volume 1 day percent change|
 |vol%_chg3d|float|BTC_daily_since_1-2018.csv|total BTC trading volume 3 day percent change|
 |vol%_chg8d|float|BTC_daily_since_1-2018.csv|total BTC trading volume 8 day percent change|
