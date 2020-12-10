@@ -100,7 +100,7 @@ The final production model a Neural Network, utilizes several layers with optimi
 
 ## Insights
 
-My model identifies several features for further research among those BTC_activeaddresses which had a decent correlation to price at 0.62. It would seem so that leveraging blockchain, search and social media data allows for predictions of BTC’s daily close better than a baseline model, during the time period analysied (12/31/2017 - 12/06/2020), just predicating the positive class would have been right roughly only ~49% of the time.
+My model identifies several features for further research among those BTC_activeaddresses which had a decent correlation to price at 0.62. It would seem that leveraging blockchain, search and social media data does indeed allow for predictions of BTC’s daily close better than a baseline model, during the time period analyzed (12/31/2017 - 12/06/2020), just predicting the positive class would have been right roughly ~49% of the time.
 
 As with most Data Science models, this one is not good enough to use by itself, merely as a benchmark. The model predicts if price will go up/stay sideways or down but does not indicate by how much therefore transaction costs and or risk/reward ratio maybe be skewed so that it will be unprofitable. I would highly suggest anyone ready to take the model to start making money should take that into consideration, especially when applying this model in a standalone setting.
 
