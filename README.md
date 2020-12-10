@@ -96,7 +96,7 @@ The final production model a Neural Network, utilizes several layers with optimi
 ![Alt text](Images/NN_performance.png)
 
 
-#Conclusions-and-Recommendations
+# Conclusions-and-Recommendations
 
 ## Insights
 
